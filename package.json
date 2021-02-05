@@ -1,0 +1,23 @@
+{
+  "name": "musicbot",
+  "version": "1.0.0",
+  "description": "Discord bot to play music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreadArceus/MusicBot.git"
+  },
+  "author": "DreadArceus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DreadArceus/MusicBot/issues"
+  },
+  "homepage": "https://github.com/DreadArceus/MusicBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "nodemon": "^2.0.7"
+  }
+}
